@@ -1,0 +1,38 @@
+C:\Users\Tushit\Douglas College\Kaur, Jasmine - Client Server Systems Project\BrewCrew\BrewCrew\BrewCrewDB\bin\Debug\BrewCrewDB.dacpac
+C:\Users\Tushit\Douglas College\Kaur, Jasmine - Client Server Systems Project\BrewCrew\BrewCrew\BrewCrewDB\bin\Debug\BrewCrewDB.dll
+C:\Users\Tushit\Douglas College\Kaur, Jasmine - Client Server Systems Project\BrewCrew\BrewCrew\BrewCrewDB\bin\Debug\BrewCrewDB.pdb
+C:\Users\Tushit\Douglas College\Kaur, Jasmine - Client Server Systems Project\BrewCrew\BrewCrew\BrewCrewDB\obj\Debug\Model.xml
+C:\Users\Tushit\Douglas College\Kaur, Jasmine - Client Server Systems Project\BrewCrew\BrewCrew\BrewCrewDB\obj\Debug\refactor.xml
+C:\Users\Tushit\Douglas College\Kaur, Jasmine - Client Server Systems Project\BrewCrew\BrewCrew\BrewCrewDB\obj\Debug\postdeploy.sql
+C:\Users\Tushit\Douglas College\Kaur, Jasmine - Client Server Systems Project\BrewCrew\BrewCrew\BrewCrewDB\obj\Debug\predeploy.sql
+C:\Users\Tushit\Douglas College\Kaur, Jasmine - Client Server Systems Project\BrewCrew\BrewCrew\BrewCrewDB\obj\Debug\BrewCrewDB.dll
+C:\Users\Tushit\Douglas College\Kaur, Jasmine - Client Server Systems Project\BrewCrew\BrewCrew\BrewCrewDB\obj\Debug\BrewCrewDB.pdb
+C:\Users\Jasmine Kaur\OneDrive - Douglas College\Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\BrewCrewDB\bin\Debug\BrewCrewDB.dacpac
+C:\Users\Jasmine Kaur\OneDrive - Douglas College\Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\BrewCrewDB\bin\Debug\BrewCrewDB.dll
+C:\Users\Jasmine Kaur\OneDrive - Douglas College\Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\BrewCrewDB\bin\Debug\BrewCrewDB.pdb
+C:\Users\Jasmine Kaur\OneDrive - Douglas College\Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\BrewCrewDB\obj\Debug\BrewCrewDB.sqlprojAssemblyReference.cache
+C:\Users\Jasmine Kaur\OneDrive - Douglas College\Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\BrewCrewDB\obj\Debug\BrewCrewDB.dll
+C:\Users\Jasmine Kaur\OneDrive - Douglas College\Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\BrewCrewDB\obj\Debug\BrewCrewDB.pdb
+C:\Users\karan\Douglas College\Kaur, Jasmine - BrewCrew\BrewCrew\BrewCrew\BrewCrewDB\bin\Debug\BrewCrewDB.dacpac
+C:\Users\karan\Douglas College\Kaur, Jasmine - BrewCrew\BrewCrew\BrewCrew\BrewCrewDB\obj\Debug\BrewCrewDB.sqlprojAssemblyReference.cache
+C:\Users\karan\Douglas College\Kaur, Jasmine - BrewCrew\BrewCrew\BrewCrew\BrewCrewDB\obj\Debug\Model.xml
+C:\Users\karan\Douglas College\Kaur, Jasmine - BrewCrew\BrewCrew\BrewCrew\BrewCrewDB\obj\Debug\refactor.xml
+C:\Users\karan\Douglas College\Kaur, Jasmine - BrewCrew\BrewCrew\BrewCrew\BrewCrewDB\obj\Debug\postdeploy.sql
+C:\Users\karan\Douglas College\Kaur, Jasmine - BrewCrew\BrewCrew\BrewCrew\BrewCrewDB\obj\Debug\predeploy.sql
+C:\Users\karan\Douglas College\Kaur, Jasmine - BrewCrew\BrewCrew\BrewCrew\BrewCrewDB\obj\Debug\BrewCrewDB.dll
+C:\Users\karan\Douglas College\Kaur, Jasmine - BrewCrew\BrewCrew\BrewCrew\BrewCrewDB\obj\Debug\BrewCrewDB.pdb
+C:\Users\Tushit\Douglas College\Kaur, Jasmine - Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\BrewCrewDB\bin\Debug\BrewCrewDB.dacpac
+C:\Users\Tushit\Douglas College\Kaur, Jasmine - Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\BrewCrewDB\bin\Debug\BrewCrewDB.dll
+C:\Users\Tushit\Douglas College\Kaur, Jasmine - Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\BrewCrewDB\bin\Debug\BrewCrewDB.pdb
+C:\Users\Tushit\Douglas College\Kaur, Jasmine - Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\BrewCrewDB\obj\Debug\BrewCrewDB.dll
+C:\Users\Tushit\Douglas College\Kaur, Jasmine - Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\BrewCrewDB\obj\Debug\BrewCrewDB.pdb
+C:\Users\Jasmine Kaur\Desktop\BrewCrew\BrewCrewDB\bin\Debug\BrewCrewDB.dacpac
+C:\Users\Jasmine Kaur\Desktop\BrewCrew\BrewCrewDB\bin\Debug\BrewCrewDB.dll
+C:\Users\Jasmine Kaur\Desktop\BrewCrew\BrewCrewDB\bin\Debug\BrewCrewDB.pdb
+C:\Users\Jasmine Kaur\Desktop\BrewCrew\BrewCrewDB\obj\Debug\BrewCrewDB.sqlprojAssemblyReference.cache
+C:\Users\Jasmine Kaur\Desktop\BrewCrew\BrewCrewDB\obj\Debug\Model.xml
+C:\Users\Jasmine Kaur\Desktop\BrewCrew\BrewCrewDB\obj\Debug\refactor.xml
+C:\Users\Jasmine Kaur\Desktop\BrewCrew\BrewCrewDB\obj\Debug\postdeploy.sql
+C:\Users\Jasmine Kaur\Desktop\BrewCrew\BrewCrewDB\obj\Debug\predeploy.sql
+C:\Users\Jasmine Kaur\Desktop\BrewCrew\BrewCrewDB\obj\Debug\BrewCrewDB.dll
+C:\Users\Jasmine Kaur\Desktop\BrewCrew\BrewCrewDB\obj\Debug\BrewCrewDB.pdb

@@ -1,0 +1,112 @@
+C:\Users\Tushit\source\repos\BrewCrew\BrewCrew\bin\Debug\BrewCrew.exe.config
+C:\Users\Tushit\source\repos\BrewCrew\BrewCrew\bin\Debug\BrewCrew.exe
+C:\Users\Tushit\source\repos\BrewCrew\BrewCrew\bin\Debug\BrewCrew.pdb
+C:\Users\Tushit\source\repos\BrewCrew\BrewCrew\obj\Debug\BrewCrew.csprojAssemblyReference.cache
+C:\Users\Tushit\source\repos\BrewCrew\BrewCrew\obj\Debug\BrewCrew.SignIn.resources
+C:\Users\Tushit\source\repos\BrewCrew\BrewCrew\obj\Debug\BrewCrew.Properties.Resources.resources
+C:\Users\Tushit\source\repos\BrewCrew\BrewCrew\obj\Debug\BrewCrew.csproj.GenerateResource.cache
+C:\Users\Tushit\source\repos\BrewCrew\BrewCrew\obj\Debug\BrewCrew.exe
+C:\Users\Tushit\source\repos\BrewCrew\BrewCrew\obj\Debug\BrewCrew.pdb
+C:\Users\Tushit\source\repos\BrewCrew\BrewCrew\obj\Debug\BrewCrew.SignUp.resources
+C:\Users\Tushit\Douglas College\Kaur, Jasmine - Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\obj\Debug\BrewCrew.csprojAssemblyReference.cache
+C:\Users\Tushit\Douglas College\Kaur, Jasmine - Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\obj\Debug\BrewCrew.SignIn.resources
+C:\Users\Tushit\Douglas College\Kaur, Jasmine - Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\obj\Debug\BrewCrew.Properties.Resources.resources
+C:\Users\Tushit\Douglas College\Kaur, Jasmine - Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\obj\Debug\BrewCrew.SignUp.resources
+C:\Users\Tushit\Douglas College\Kaur, Jasmine - Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\obj\Debug\BrewCrew.csproj.GenerateResource.cache
+C:\Users\Tushit\Douglas College\Kaur, Jasmine - Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\obj\Debug\BrewCrew.exe
+C:\Users\Tushit\Douglas College\Kaur, Jasmine - Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\obj\Debug\BrewCrew.pdb
+C:\Users\Tushit\Douglas College\Kaur, Jasmine - Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\bin\Debug\BrewCrew.exe.config
+C:\Users\Tushit\Douglas College\Kaur, Jasmine - Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\bin\Debug\BrewCrew.exe
+C:\Users\Tushit\Douglas College\Kaur, Jasmine - Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\bin\Debug\BrewCrew.pdb
+C:\Users\Tushit\Douglas College\Kaur, Jasmine - Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\obj\Debug\BrewCrew.AdminDashboard.resources
+C:\Users\Tushit\Douglas College\Kaur, Jasmine - Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\obj\Debug\BrewCrew.Menu.resources
+C:\Users\Tushit\Douglas College\Kaur, Jasmine - Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\obj\Debug\BrewCrew.OrderReceipt.resources
+C:\Users\Tushit\Douglas College\Kaur, Jasmine - Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Tushit\Douglas College\Kaur, Jasmine - Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\obj\Debug\BrewCrew.csproj.CopyComplete
+C:\Users\Jasmine Kaur\OneDrive - Douglas College\Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\BrewCrew\bin\Debug\BrewCrew.exe.config
+C:\Users\Jasmine Kaur\OneDrive - Douglas College\Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\BrewCrew\bin\Debug\BrewCrew.exe
+C:\Users\Jasmine Kaur\OneDrive - Douglas College\Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\BrewCrew\bin\Debug\BrewCrew.pdb
+C:\Users\Jasmine Kaur\OneDrive - Douglas College\Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\BrewCrew\bin\Debug\EntityFramework.dll
+C:\Users\Jasmine Kaur\OneDrive - Douglas College\Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\BrewCrew\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jasmine Kaur\OneDrive - Douglas College\Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\BrewCrew\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Jasmine Kaur\OneDrive - Douglas College\Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\BrewCrew\bin\Debug\EntityFramework.xml
+C:\Users\Jasmine Kaur\OneDrive - Douglas College\Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\BrewCrew\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jasmine Kaur\OneDrive - Douglas College\Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\BrewCrew\obj\Debug\BrewCrew.csprojAssemblyReference.cache
+C:\Users\Jasmine Kaur\OneDrive - Douglas College\Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\BrewCrew\obj\Debug\BrewCrew.Properties.Resources.resources
+C:\Users\Jasmine Kaur\OneDrive - Douglas College\Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\BrewCrew\obj\Debug\BrewCrew.csproj.GenerateResource.cache
+C:\Users\Jasmine Kaur\OneDrive - Douglas College\Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\BrewCrew\obj\Debug\BrewCrew.csproj.CopyComplete
+C:\Users\Jasmine Kaur\OneDrive - Douglas College\Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\BrewCrew\obj\Debug\BrewCrew.exe
+C:\Users\Jasmine Kaur\OneDrive - Douglas College\Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\BrewCrew\obj\Debug\BrewCrew.pdb
+C:\Users\Jasmine Kaur\OneDrive - Douglas College\Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\BrewCrew\obj\Debug\BrewCrew.BrewCrewMenuForm.resources
+C:\Users\Jasmine Kaur\OneDrive - Douglas College\Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\BrewCrew\bin\Debug\BrewCrewDAL.dll
+C:\Users\Jasmine Kaur\OneDrive - Douglas College\Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\BrewCrew\bin\Debug\BrewCrewDAL.pdb
+C:\Users\Jasmine Kaur\OneDrive - Douglas College\Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\BrewCrew\bin\Debug\BrewCrewDAL.dll.config
+C:\Users\karan\Douglas College\Kaur, Jasmine - BrewCrew\BrewCrew\BrewCrew\BrewCrew\obj\Debug\BrewCrew.csprojAssemblyReference.cache
+C:\Users\karan\Douglas College\Kaur, Jasmine - BrewCrew\BrewCrew\BrewCrew\BrewCrew\obj\Debug\BrewCrew.AdminDashboardForm.resources
+C:\Users\karan\Douglas College\Kaur, Jasmine - BrewCrew\BrewCrew\BrewCrew\BrewCrew\obj\Debug\BrewCrew.BrewCrewMenuForm.resources
+C:\Users\karan\Douglas College\Kaur, Jasmine - BrewCrew\BrewCrew\BrewCrew\BrewCrew\obj\Debug\BrewCrew.CustomerOrderReceiptForm.resources
+C:\Users\karan\Douglas College\Kaur, Jasmine - BrewCrew\BrewCrew\BrewCrew\BrewCrew\obj\Debug\BrewCrew.SignInForm.resources
+C:\Users\karan\Douglas College\Kaur, Jasmine - BrewCrew\BrewCrew\BrewCrew\BrewCrew\obj\Debug\BrewCrew.Properties.Resources.resources
+C:\Users\karan\Douglas College\Kaur, Jasmine - BrewCrew\BrewCrew\BrewCrew\BrewCrew\obj\Debug\BrewCrew.SignUpForm.resources
+C:\Users\karan\Douglas College\Kaur, Jasmine - BrewCrew\BrewCrew\BrewCrew\BrewCrew\obj\Debug\BrewCrew.csproj.GenerateResource.cache
+C:\Users\karan\Douglas College\Kaur, Jasmine - BrewCrew\BrewCrew\BrewCrew\BrewCrew\obj\Debug\BrewCrew.csproj.CoreCompileInputs.cache
+C:\Users\karan\Douglas College\Kaur, Jasmine - BrewCrew\BrewCrew\BrewCrew\BrewCrew\obj\Debug\BrewCrew.exe
+C:\Users\karan\Douglas College\Kaur, Jasmine - BrewCrew\BrewCrew\BrewCrew\BrewCrew\obj\Debug\BrewCrew.pdb
+C:\Users\Jasmine Kaur\OneDrive - Douglas College\Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\BrewCrew\obj\Debug\BrewCrew.csproj.CoreCompileInputs.cache
+C:\Users\Tushit\Douglas College\Kaur, Jasmine - Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\BrewCrew\bin\Debug\BrewCrew.exe.config
+C:\Users\Tushit\Douglas College\Kaur, Jasmine - Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\BrewCrew\bin\Debug\BrewCrew.exe
+C:\Users\Tushit\Douglas College\Kaur, Jasmine - Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\BrewCrew\bin\Debug\BrewCrew.pdb
+C:\Users\Tushit\Douglas College\Kaur, Jasmine - Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\BrewCrew\bin\Debug\BrewCrewDAL.dll
+C:\Users\Tushit\Douglas College\Kaur, Jasmine - Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\BrewCrew\bin\Debug\EntityFramework.dll
+C:\Users\Tushit\Douglas College\Kaur, Jasmine - Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\BrewCrew\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tushit\Douglas College\Kaur, Jasmine - Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\BrewCrew\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Tushit\Douglas College\Kaur, Jasmine - Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\BrewCrew\bin\Debug\BrewCrewDAL.pdb
+C:\Users\Tushit\Douglas College\Kaur, Jasmine - Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\BrewCrew\bin\Debug\BrewCrewDAL.dll.config
+C:\Users\Tushit\Douglas College\Kaur, Jasmine - Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\BrewCrew\bin\Debug\EntityFramework.xml
+C:\Users\Tushit\Douglas College\Kaur, Jasmine - Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\BrewCrew\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tushit\Douglas College\Kaur, Jasmine - Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\BrewCrew\obj\Debug\BrewCrew.csprojAssemblyReference.cache
+C:\Users\Tushit\Douglas College\Kaur, Jasmine - Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\BrewCrew\obj\Debug\BrewCrew.AdminAddOrUpdateTeaToppingsSubForm.resources
+C:\Users\Tushit\Douglas College\Kaur, Jasmine - Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\BrewCrew\obj\Debug\BrewCrew.AdminAddOrUpdateMilkTeaSubForm.resources
+C:\Users\Tushit\Douglas College\Kaur, Jasmine - Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\BrewCrew\obj\Debug\BrewCrew.AdminDashboardForm.resources
+C:\Users\Tushit\Douglas College\Kaur, Jasmine - Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\BrewCrew\obj\Debug\BrewCrew.BrewCrewMenuForm.resources
+C:\Users\Tushit\Douglas College\Kaur, Jasmine - Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\BrewCrew\obj\Debug\BrewCrew.CustomerOrderReceiptForm.resources
+C:\Users\Tushit\Douglas College\Kaur, Jasmine - Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\BrewCrew\obj\Debug\BrewCrew.SignInForm.resources
+C:\Users\Tushit\Douglas College\Kaur, Jasmine - Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\BrewCrew\obj\Debug\BrewCrew.Properties.Resources.resources
+C:\Users\Tushit\Douglas College\Kaur, Jasmine - Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\BrewCrew\obj\Debug\BrewCrew.SignUpForm.resources
+C:\Users\Tushit\Douglas College\Kaur, Jasmine - Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\BrewCrew\obj\Debug\BrewCrew.csproj.GenerateResource.cache
+C:\Users\Tushit\Douglas College\Kaur, Jasmine - Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\BrewCrew\obj\Debug\BrewCrew.csproj.CopyComplete
+C:\Users\Tushit\Douglas College\Kaur, Jasmine - Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\BrewCrew\obj\Debug\BrewCrew.exe
+C:\Users\Tushit\Douglas College\Kaur, Jasmine - Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\BrewCrew\obj\Debug\BrewCrew.pdb
+C:\Users\Jasmine Kaur\OneDrive - Douglas College\Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\BrewCrew\obj\Debug\BrewCrew.BrewCrewAdminAddOrUpdateTeaToppingsSubForm.resources
+C:\Users\Jasmine Kaur\OneDrive - Douglas College\Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\BrewCrew\obj\Debug\BrewCrew.BrewCrewAdminAddOrUpdateMilkTeaSubForm.resources
+C:\Users\Jasmine Kaur\OneDrive - Douglas College\Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\BrewCrew\obj\Debug\BrewCrew.BrewCrewAdminDashboardForm.resources
+C:\Users\Jasmine Kaur\OneDrive - Douglas College\Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\BrewCrew\obj\Debug\BrewCrew.BrewCrewAdminDashboardOrdersSubForm.resources
+C:\Users\Jasmine Kaur\OneDrive - Douglas College\Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\BrewCrew\obj\Debug\BrewCrew.BrewCrewCustomerOrderReceiptForm.resources
+C:\Users\Jasmine Kaur\OneDrive - Douglas College\Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\BrewCrew\obj\Debug\BrewCrew.BrewCrewSignInForm.resources
+C:\Users\Jasmine Kaur\OneDrive - Douglas College\Client Server Systems Project\BrewCrew\BrewCrew\BrewCrew\BrewCrew\obj\Debug\BrewCrew.BrewCrewSignUpForm.resources
+C:\Users\Jasmine Kaur\Desktop\BrewCrew\BrewCrew\bin\Debug\BrewCrew.exe.config
+C:\Users\Jasmine Kaur\Desktop\BrewCrew\BrewCrew\bin\Debug\BrewCrew.exe
+C:\Users\Jasmine Kaur\Desktop\BrewCrew\BrewCrew\bin\Debug\BrewCrew.pdb
+C:\Users\Jasmine Kaur\Desktop\BrewCrew\BrewCrew\bin\Debug\BrewCrewDAL.dll
+C:\Users\Jasmine Kaur\Desktop\BrewCrew\BrewCrew\bin\Debug\EntityFramework.dll
+C:\Users\Jasmine Kaur\Desktop\BrewCrew\BrewCrew\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jasmine Kaur\Desktop\BrewCrew\BrewCrew\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Jasmine Kaur\Desktop\BrewCrew\BrewCrew\bin\Debug\BrewCrewDAL.pdb
+C:\Users\Jasmine Kaur\Desktop\BrewCrew\BrewCrew\bin\Debug\BrewCrewDAL.dll.config
+C:\Users\Jasmine Kaur\Desktop\BrewCrew\BrewCrew\bin\Debug\EntityFramework.xml
+C:\Users\Jasmine Kaur\Desktop\BrewCrew\BrewCrew\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jasmine Kaur\Desktop\BrewCrew\BrewCrew\obj\Debug\BrewCrew.csprojAssemblyReference.cache
+C:\Users\Jasmine Kaur\Desktop\BrewCrew\BrewCrew\obj\Debug\BrewCrew.BrewCrewAdminAddOrUpdateTeaToppingsSubForm.resources
+C:\Users\Jasmine Kaur\Desktop\BrewCrew\BrewCrew\obj\Debug\BrewCrew.BrewCrewAdminAddOrUpdateMilkTeaSubForm.resources
+C:\Users\Jasmine Kaur\Desktop\BrewCrew\BrewCrew\obj\Debug\BrewCrew.BrewCrewAdminDashboardForm.resources
+C:\Users\Jasmine Kaur\Desktop\BrewCrew\BrewCrew\obj\Debug\BrewCrew.BrewCrewAdminDashboardOrdersSubForm.resources
+C:\Users\Jasmine Kaur\Desktop\BrewCrew\BrewCrew\obj\Debug\BrewCrew.BrewCrewMenuForm.resources
+C:\Users\Jasmine Kaur\Desktop\BrewCrew\BrewCrew\obj\Debug\BrewCrew.BrewCrewCustomerOrderReceiptForm.resources
+C:\Users\Jasmine Kaur\Desktop\BrewCrew\BrewCrew\obj\Debug\BrewCrew.BrewCrewSignInForm.resources
+C:\Users\Jasmine Kaur\Desktop\BrewCrew\BrewCrew\obj\Debug\BrewCrew.Properties.Resources.resources
+C:\Users\Jasmine Kaur\Desktop\BrewCrew\BrewCrew\obj\Debug\BrewCrew.BrewCrewSignUpForm.resources
+C:\Users\Jasmine Kaur\Desktop\BrewCrew\BrewCrew\obj\Debug\BrewCrew.csproj.GenerateResource.cache
+C:\Users\Jasmine Kaur\Desktop\BrewCrew\BrewCrew\obj\Debug\BrewCrew.csproj.CoreCompileInputs.cache
+C:\Users\Jasmine Kaur\Desktop\BrewCrew\BrewCrew\obj\Debug\BrewCrew.csproj.CopyComplete
+C:\Users\Jasmine Kaur\Desktop\BrewCrew\BrewCrew\obj\Debug\BrewCrew.exe
+C:\Users\Jasmine Kaur\Desktop\BrewCrew\BrewCrew\obj\Debug\BrewCrew.pdb

@@ -1,0 +1,375 @@
+<?xml version="1.0" standalone="yes"?>
+<BrewCrewDataSet>
+  <xs:schema id="BrewCrewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="BrewCrewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Customer">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="CustomerID" msdata:ReadOnly="true" msdata:AutoIncrement="true" type="xs:int" />
+                <xs:element name="CustomerFirstName">
+                  <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                      <xs:maxLength value="50" />
+                    </xs:restriction>
+                  </xs:simpleType>
+                </xs:element>
+                <xs:element name="CustomerLastName">
+                  <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                      <xs:maxLength value="50" />
+                    </xs:restriction>
+                  </xs:simpleType>
+                </xs:element>
+                <xs:element name="CustomerEmail">
+                  <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                      <xs:maxLength value="50" />
+                    </xs:restriction>
+                  </xs:simpleType>
+                </xs:element>
+                <xs:element name="CustomerPhone">
+                  <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                      <xs:maxLength value="10" />
+                    </xs:restriction>
+                  </xs:simpleType>
+                </xs:element>
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="Drink">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="DrinkID" msdata:ReadOnly="true" msdata:AutoIncrement="true" type="xs:int" />
+                <xs:element name="DrinkName">
+                  <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                      <xs:maxLength value="50" />
+                    </xs:restriction>
+                  </xs:simpleType>
+                </xs:element>
+                <xs:element name="DrinkDescription">
+                  <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                      <xs:maxLength value="150" />
+                    </xs:restriction>
+                  </xs:simpleType>
+                </xs:element>
+                <xs:element name="DrinkCalories" type="xs:int" />
+                <xs:element name="DrinkPrice" type="xs:decimal" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="Topping">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="ToppingID" msdata:ReadOnly="true" msdata:AutoIncrement="true" type="xs:int" />
+                <xs:element name="ToppingName">
+                  <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                      <xs:maxLength value="50" />
+                    </xs:restriction>
+                  </xs:simpleType>
+                </xs:element>
+                <xs:element name="ToppingDescription">
+                  <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                      <xs:maxLength value="100" />
+                    </xs:restriction>
+                  </xs:simpleType>
+                </xs:element>
+                <xs:element name="ToppingCalories" type="xs:int" />
+                <xs:element name="ToppingPrice" type="xs:decimal" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="Order">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="OrderID" msdata:ReadOnly="true" msdata:AutoIncrement="true" type="xs:int" />
+                <xs:element name="CustomerID" type="xs:int" />
+                <xs:element name="TotalPrice" type="xs:decimal" />
+                <xs:element name="Date" type="xs:dateTime" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="OrderDetails">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="OrderID" type="xs:int" />
+                <xs:element name="DrinkID" type="xs:int" />
+                <xs:element name="ToppingID" type="xs:int" />
+                <xs:element name="DrinkQuantity" type="xs:int" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+      <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+        <xs:selector xpath=".//Customer" />
+        <xs:field xpath="CustomerID" />
+      </xs:unique>
+      <xs:unique name="Drink_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+        <xs:selector xpath=".//Drink" />
+        <xs:field xpath="DrinkID" />
+      </xs:unique>
+      <xs:unique name="Topping_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+        <xs:selector xpath=".//Topping" />
+        <xs:field xpath="ToppingID" />
+      </xs:unique>
+      <xs:unique name="Order_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+        <xs:selector xpath=".//Order" />
+        <xs:field xpath="OrderID" />
+      </xs:unique>
+      <xs:unique name="OrderDetails_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+        <xs:selector xpath=".//OrderDetails" />
+        <xs:field xpath="OrderID" />
+        <xs:field xpath="DrinkID" />
+        <xs:field xpath="ToppingID" />
+      </xs:unique>
+    </xs:element>
+  </xs:schema>
+  <Customer>
+    <CustomerID>1</CustomerID>
+    <CustomerFirstName>Jasmine</CustomerFirstName>
+    <CustomerLastName>Kaur</CustomerLastName>
+    <CustomerEmail>admin@brewcrew.com</CustomerEmail>
+    <CustomerPhone>1234567789</CustomerPhone>
+  </Customer>
+  <Customer>
+    <CustomerID>2</CustomerID>
+    <CustomerFirstName>Tushit</CustomerFirstName>
+    <CustomerLastName>Kanuri</CustomerLastName>
+    <CustomerEmail>user@gmail.com</CustomerEmail>
+    <CustomerPhone>5678912398</CustomerPhone>
+  </Customer>
+  <Customer>
+    <CustomerID>1002</CustomerID>
+    <CustomerFirstName>Jasmine   </CustomerFirstName>
+    <CustomerLastName>   Kaur</CustomerLastName>
+    <CustomerEmail>   jasmine@gmail.com   </CustomerEmail>
+    <CustomerPhone>2344563453</CustomerPhone>
+  </Customer>
+  <Drink>
+    <DrinkID>1001</DrinkID>
+    <DrinkName>Matcha Red Bean Milk Tea</DrinkName>
+    <DrinkDescription>A spin on traditional Matcha green, topped with red bean for added flavour</DrinkDescription>
+    <DrinkCalories>540</DrinkCalories>
+    <DrinkPrice>4.15</DrinkPrice>
+  </Drink>
+  <Drink>
+    <DrinkID>1002</DrinkID>
+    <DrinkName>Hazelnut Chocolate Milk Tea</DrinkName>
+    <DrinkDescription>A decadent combination of rich, chocolatey, and nutty all in one</DrinkDescription>
+    <DrinkCalories>340</DrinkCalories>
+    <DrinkPrice>4.50</DrinkPrice>
+  </Drink>
+  <Drink>
+    <DrinkID>1003</DrinkID>
+    <DrinkName>Caramel Milk Tea</DrinkName>
+    <DrinkDescription>Smooth and creamy with the bold taste of caramel</DrinkDescription>
+    <DrinkCalories>410</DrinkCalories>
+    <DrinkPrice>4.75</DrinkPrice>
+  </Drink>
+  <Drink>
+    <DrinkID>1004</DrinkID>
+    <DrinkName>Jasmine Green Milk Tea</DrinkName>
+    <DrinkDescription>A fragnant and delicate brew, paired with the rich creaminess of milk tea</DrinkDescription>
+    <DrinkCalories>270</DrinkCalories>
+    <DrinkPrice>4.10</DrinkPrice>
+  </Drink>
+  <Drink>
+    <DrinkID>1005</DrinkID>
+    <DrinkName>BrewCrew Pearl Milk Tea</DrinkName>
+    <DrinkDescription>Tapioca pearls add a pleasant texture to our signature milk tea, a best selling fan favorite</DrinkDescription>
+    <DrinkCalories>350</DrinkCalories>
+    <DrinkPrice>5.99</DrinkPrice>
+  </Drink>
+  <Drink>
+    <DrinkID>1006</DrinkID>
+    <DrinkName>Grass Jelly Roasted Milk Tea</DrinkName>
+    <DrinkDescription>Our most popular drink! Grass jelly adds a satisfying texture to our delicious classic roasted milk tea </DrinkDescription>
+    <DrinkCalories>220</DrinkCalories>
+    <DrinkPrice>5.20</DrinkPrice>
+  </Drink>
+  <Drink>
+    <DrinkID>1007</DrinkID>
+    <DrinkName>Red Bean Pearl Milk Tea</DrinkName>
+    <DrinkDescription>Sweet and full-bodied, our signature milk tea served with tapioca pearls and red beans</DrinkDescription>
+    <DrinkCalories>410</DrinkCalories>
+    <DrinkPrice>5.45</DrinkPrice>
+  </Drink>
+  <Drink>
+    <DrinkID>1008</DrinkID>
+    <DrinkName>Earl Grey Milk Tea</DrinkName>
+    <DrinkDescription>One of the most recognized flavoured teas in the world: bold and rich with a subtle hint of citrus</DrinkDescription>
+    <DrinkCalories>270</DrinkCalories>
+    <DrinkPrice>5.15</DrinkPrice>
+  </Drink>
+  <Drink>
+    <DrinkID>1009</DrinkID>
+    <DrinkName>BrewCrew Triple</DrinkName>
+    <DrinkDescription>Our popular roasted milk tea paired with our top three toppings: pearls, grass jelly, and pudding to create a decadent and flavourful combination</DrinkDescription>
+    <DrinkCalories>400</DrinkCalories>
+    <DrinkPrice>7.10</DrinkPrice>
+  </Drink>
+  <Drink>
+    <DrinkID>1010</DrinkID>
+    <DrinkName>Wintermelon Milk Tea</DrinkName>
+    <DrinkDescription>A summer-time favorite, our wintermelon milk tea has a sweet, robust caramel flavour</DrinkDescription>
+    <DrinkCalories>260</DrinkCalories>
+    <DrinkPrice>6.78</DrinkPrice>
+  </Drink>
+  <Drink>
+    <DrinkID>2002</DrinkID>
+    <DrinkName>sadas</DrinkName>
+    <DrinkDescription>Smooth and creamy with the bold taste of caramel</DrinkDescription>
+    <DrinkCalories>410</DrinkCalories>
+    <DrinkPrice>4.75</DrinkPrice>
+  </Drink>
+  <Topping>
+    <ToppingID>2001</ToppingID>
+    <ToppingName>Coffee Jelly</ToppingName>
+    <ToppingDescription>Coffee jelly is a jelly dessert flavored with coffee and sugar</ToppingDescription>
+    <ToppingCalories>34</ToppingCalories>
+    <ToppingPrice>0.55</ToppingPrice>
+  </Topping>
+  <Topping>
+    <ToppingID>2002</ToppingID>
+    <ToppingName>Coconut Jelly</ToppingName>
+    <ToppingDescription>Coconut jelly is a dessert produced by the fermentation of coconut water</ToppingDescription>
+    <ToppingCalories>45</ToppingCalories>
+    <ToppingPrice>0.45</ToppingPrice>
+  </Topping>
+  <Topping>
+    <ToppingID>2003</ToppingID>
+    <ToppingName>Pearls</ToppingName>
+    <ToppingDescription>Pearls are small balls of tapioca starch </ToppingDescription>
+    <ToppingCalories>68</ToppingCalories>
+    <ToppingPrice>0.59</ToppingPrice>
+  </Topping>
+  <Topping>
+    <ToppingID>2004</ToppingID>
+    <ToppingName>Grass Jellynvh</ToppingName>
+    <ToppingDescription>Grass jelly is a jelly of mint taste and slightly bitter</ToppingDescription>
+    <ToppingCalories>3209</ToppingCalories>
+    <ToppingPrice>0.99</ToppingPrice>
+  </Topping>
+  <Topping>
+    <ToppingID>2005</ToppingID>
+    <ToppingName>Mango Jelly</ToppingName>
+    <ToppingDescription>Mango jelly is a jelly dessert flavored with Mango</ToppingDescription>
+    <ToppingCalories>90</ToppingCalories>
+    <ToppingPrice>0.50</ToppingPrice>
+  </Topping>
+  <Order>
+    <OrderID>10001</OrderID>
+    <CustomerID>2</CustomerID>
+    <TotalPrice>10.69</TotalPrice>
+    <Date>2020-04-05T00:00:00-07:00</Date>
+  </Order>
+  <Order>
+    <OrderID>10002</OrderID>
+    <CustomerID>2</CustomerID>
+    <TotalPrice>28.50</TotalPrice>
+    <Date>2020-04-11T00:00:00-07:00</Date>
+  </Order>
+  <Order>
+    <OrderID>10003</OrderID>
+    <CustomerID>2</CustomerID>
+    <TotalPrice>5.00</TotalPrice>
+    <Date>2020-04-11T00:00:00-07:00</Date>
+  </Order>
+  <Order>
+    <OrderID>10004</OrderID>
+    <CustomerID>2</CustomerID>
+    <TotalPrice>61.22</TotalPrice>
+    <Date>2020-04-11T00:00:00-07:00</Date>
+  </Order>
+  <Order>
+    <OrderID>10005</OrderID>
+    <CustomerID>2</CustomerID>
+    <TotalPrice>21.54</TotalPrice>
+    <Date>2020-04-11T00:00:00-07:00</Date>
+  </Order>
+  <Order>
+    <OrderID>10006</OrderID>
+    <CustomerID>2</CustomerID>
+    <TotalPrice>74.28</TotalPrice>
+    <Date>2020-04-11T00:00:00-07:00</Date>
+  </Order>
+  <Order>
+    <OrderID>11002</OrderID>
+    <CustomerID>2</CustomerID>
+    <TotalPrice>20.94</TotalPrice>
+    <Date>2020-04-11T00:00:00-07:00</Date>
+  </Order>
+  <OrderDetails>
+    <OrderID>10001</OrderID>
+    <DrinkID>1005</DrinkID>
+    <ToppingID>2003</ToppingID>
+    <DrinkQuantity>2</DrinkQuantity>
+  </OrderDetails>
+  <OrderDetails>
+    <OrderID>10002</OrderID>
+    <DrinkID>1002</DrinkID>
+    <ToppingID>2001</ToppingID>
+    <DrinkQuantity>1</DrinkQuantity>
+  </OrderDetails>
+  <OrderDetails>
+    <OrderID>10002</OrderID>
+    <DrinkID>1004</DrinkID>
+    <ToppingID>2003</ToppingID>
+    <DrinkQuantity>5</DrinkQuantity>
+  </OrderDetails>
+  <OrderDetails>
+    <OrderID>10003</OrderID>
+    <DrinkID>1002</DrinkID>
+    <ToppingID>2005</ToppingID>
+    <DrinkQuantity>1</DrinkQuantity>
+  </OrderDetails>
+  <OrderDetails>
+    <OrderID>10004</OrderID>
+    <DrinkID>1006</DrinkID>
+    <ToppingID>2002</ToppingID>
+    <DrinkQuantity>2</DrinkQuantity>
+  </OrderDetails>
+  <OrderDetails>
+    <OrderID>10004</OrderID>
+    <DrinkID>1008</DrinkID>
+    <ToppingID>2001</ToppingID>
+    <DrinkQuantity>1</DrinkQuantity>
+  </OrderDetails>
+  <OrderDetails>
+    <OrderID>10004</OrderID>
+    <DrinkID>1010</DrinkID>
+    <ToppingID>2003</ToppingID>
+    <DrinkQuantity>6</DrinkQuantity>
+  </OrderDetails>
+  <OrderDetails>
+    <OrderID>10005</OrderID>
+    <DrinkID>1007</DrinkID>
+    <ToppingID>2004</ToppingID>
+    <DrinkQuantity>1</DrinkQuantity>
+  </OrderDetails>
+  <OrderDetails>
+    <OrderID>10005</OrderID>
+    <DrinkID>1009</DrinkID>
+    <ToppingID>2002</ToppingID>
+    <DrinkQuantity>2</DrinkQuantity>
+  </OrderDetails>
+  <OrderDetails>
+    <OrderID>10006</OrderID>
+    <DrinkID>1006</DrinkID>
+    <ToppingID>2004</ToppingID>
+    <DrinkQuantity>12</DrinkQuantity>
+  </OrderDetails>
+  <OrderDetails>
+    <OrderID>11002</OrderID>
+    <DrinkID>1005</DrinkID>
+    <ToppingID>2004</ToppingID>
+    <DrinkQuantity>3</DrinkQuantity>
+  </OrderDetails>
+</BrewCrewDataSet>
